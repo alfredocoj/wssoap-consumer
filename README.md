@@ -1,2 +1,2 @@
 # wssoap-consumer
-Consumer SOAP web service
+Consumer SOAP web service using Spring Framework.
